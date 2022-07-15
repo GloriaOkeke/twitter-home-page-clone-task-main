@@ -27,7 +27,7 @@ body{
 
 .posted-img{
     border-radius: 900px;
-    width: 60%;
+    width: 80%;
 }
 
 .shared-img{
@@ -81,7 +81,7 @@ a{
 
 .tweet{
     position: absolute;
-    top: 199%;
+    top: 150%;
     right: 20px;
     background-color: rgb(0, 136, 255);
     border-radius: 30px;
